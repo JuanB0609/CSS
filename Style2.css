@@ -1,0 +1,56 @@
+#titulo{
+    color: mediumaquamarine; 
+}
+.strong{
+    color: red;
+}
+.destacado{
+    color: orange;
+}
+#subtitulo{
+    color: blue;
+}
+p a[href="#1"] {
+    color: red;
+} 
+p em {
+    color: blue;
+}
+p span[class="especial"]{
+    color: #913a98;
+}
+caption{
+    color: blue;
+}
+tr th[class="especial"]{
+    color: rgb(255, 238, 0);
+}
+tfoot tr th{
+    color: red;
+}
+tbody tr th {
+    color: red;
+}
+tbody tr td {
+    color: green;
+}
+tbody tr .strong1{
+    color:rgb(255, 238, 0);  ;
+}
+
+#adicional p {
+    color: #008000;
+}
+p #especial{
+    color:#ff44a2;
+}
+p a[href="#2"] {
+    color: #00ff00;
+}   
+
+table,td {
+	border: 1px solid black;
+}
+table,th {
+	border: 1px solid black;
+}
